@@ -4,7 +4,7 @@
     fetch="https://android.googlesource.com/" />
   <remote  name="grapheneos"
     fetch="https://github.com/GrapheneOS/"
-    revision="refs/heads/13" />
+    revision="refs/tags/TP1A.221005.002.2023011000" />
   <default revision="refs/tags/android-t-qpr2-beta-2_r0.1"
     remote="aosp" sync-j="4" />
 
